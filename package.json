@@ -21,6 +21,7 @@
   "homepage": "https://github.com/hanachin/react-infinite-scroll",
   "dependencies": {},
   "devDependencies": {
+    "@types/react": "^16.9.35",
     "react": "^16.13.1",
     "typescript": "^3.8.3"
   },
