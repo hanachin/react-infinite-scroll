@@ -1,0 +1,26 @@
+{
+  "name": "@hanchin/react-infinite-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanachin/react-infinite-scroll.git"
+  },
+  "author": "Seiei Miyagi",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/hanachin/react-infinite-scroll/issues"
+  },
+  "homepage": "https://github.com/hanachin/react-infinite-scroll",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
